@@ -1,0 +1,879 @@
+,English Word,French Word,Frequency
+0,abide,respecter,42
+1,about,sur,370
+2,above,au dessus,124
+3,abroad,à l'étranger,63
+4,absence,absence,55
+5,abuse,abuser de,73
+6,according,selon,34
+7,account,Compte,54
+8,accuse,accuser,49
+9,acquainted,connaissance,41
+10,action,action,231
+11,advantage,avantage,86
+12,advice,Conseil,43
+13,affairs,affaires,66
+14,affection,affection,113
+15,affections,affections,40
+16,afraid,peur,41
+17,after,après,462
+19,again,encore,1212
+20,alive,vivant,89
+21,almost,presque,139
+22,alone,seul,232
+23,along,le long de,108
+24,already,déjà,139
+25,although,bien que,37
+26,always,toujours,59
+27,ambition,ambition,46
+28,ancient,ancien,75
+29,angel,ange,126
+30,anger,colère,416
+31,another,un autre,370
+32,answer,répondre,455
+33,anything,n'importe quoi,100
+34,apparel,vêtements,47
+35,appear,apparaître,213
+37,approach,approche,87
+38,argument,argument,78
+40,armour,armure,54
+41,aside,de côté,132
+42,asleep,endormi,59
+43,assure,assurer,63
+45,attend,assister,279
+47,authority,autorité,51
+48,avoid,éviter,48
+49,awake,éveillé,68
+50,awhile,quelque temps,101
+51,banish,bannir,192
+52,barren,Dénudé,40
+54,bastard,Connard,90
+55,battle,bataille,146
+56,beard,barbe,124
+57,bearing,palier,66
+58,bears,ours,105
+59,beast,la bête,129
+60,beaten,battu,48
+61,beauty,beauté,224
+62,because,car,81
+63,become,devenir,184
+65,before,avant,629
+66,beggar,mendiant,119
+67,begin,commencer,173
+68,behalf,nom,46
+69,behind,derrière,114
+70,behold,voir,154
+71,being,étant,548
+72,believe,croyez,197
+73,belike,être comme,22
+74,below,au dessous de,52
+75,benefit,avantage,47
+76,besides,outre,49
+77,betray,trahir,67
+78,better,mieux,583
+79,between,entre,195
+80,beyond,au-delà,43
+81,birth,naissance,101
+82,bishop,évêque,36
+83,bitter,amer,95
+84,black,noir,172
+85,blame,faire des reproches,93
+86,bless,bénir,244
+88,blest,heureux,80
+89,blind,aveugle,102
+90,blood,du sang,933
+91,blows,coups,70
+92,blunt,cru,38
+93,blush,rougir,84
+94,bodies,corps,44
+95,bones,des os,76
+96,borne,supporté,93
+97,bottom,bas,40
+98,bought,acheté,51
+99,bound,lié,219
+100,bounty,prime,41
+101,brain,cerveau,148
+103,brave,courageux,205
+104,breast,Sein,116
+105,breath,souffle,350
+106,breed,race,106
+107,brief,bref,100
+108,bright,brillant,80
+109,bring,apporter,447
+110,broke,cassé,234
+111,brook,ruisseau,50
+112,brother,frère,682
+113,brought,apporté,186
+114,brows,sourcils,49
+115,burden,fardeau,59
+116,buried,enterré,56
+117,burning,brûlant,51
+118,business,Entreprise,235
+119,cannot,ne peux pas,718
+121,captain,capitaine,77
+122,cardinal,cardinal,12
+123,cares,se soucie,36
+124,carry,porter,104
+125,castle,Château,61
+126,catch,capture,90
+127,cause,cause,464
+128,cease,cesser,63
+129,certain,certain,221
+130,chain,chaîne,80
+131,chair,chaise,46
+132,challenge,défi,55
+133,chamber,chambre,147
+134,chance,chance,199
+135,change,changement,236
+136,charge,charge,264
+137,charity,charité,54
+138,chaste,chaste,44
+139,cheek,joue,152
+140,cheer,acclamation,121
+141,chide,gronder,55
+142,chief,chef,143
+143,child,enfant,373
+144,choice,choix,72
+145,church,église,88
+147,citizen,citoyenne,62
+148,civil,civil,66
+149,claim,prétendre,186
+153,clear,clair,84
+155,close,proche,159
+157,clothes,vêtements,41
+158,clouds,des nuages,57
+159,clown,pitre,19
+160,college,Université,4
+161,colour,Couleur,161
+162,comes,vient,623
+163,comfort,confort,240
+164,coming,venir,159
+166,command,commander,268
+168,commend,saluer,119
+170,commission,commission,52
+171,commit,commettre,72
+172,common,commun,228
+173,companion,un compagnon,53
+174,company,entreprise,212
+175,complete,Achevée,20
+176,complexion,complexion,47
+177,condition,état,84
+178,conduct,conduite,51
+179,confess,avouer,170
+180,conscience,conscience,124
+181,consent,consentement,104
+182,consider,considérer,74
+183,constable,gendarme,19
+184,constant,constant,69
+185,contempt,mépris,50
+186,content,contenu,252
+187,contrary,contraire,47
+188,copies,copies,4
+189,copyright,droits d'auteur,7
+190,could,pourrait,583
+191,council,conseil,30
+192,counsel,Conseil,172
+193,count,compter,582
+197,courage,courage,279
+198,course,cours,252
+199,court,tribunal,437
+201,cousin,cousin,247
+202,coward,lâche,144
+203,crave,demander,70
+204,creature,créature,107
+205,credit,crédit,72
+207,cross,traverser,122
+208,crown,couronne,384
+209,cruel,cruel,99
+210,cunning,ruse,78
+212,curse,malédiction,175
+213,custom,Douane,70
+214,dagger,dague,57
+215,damned,damné,43
+216,dance,Danse,101
+218,darkness,obscurité,37
+219,daughter,fille,481
+220,deadly,mortel,50
+221,dearest,très cher,56
+222,dearly,chèrement,41
+223,death,décès,876
+224,deeds,actes,119
+225,defend,défendre,84
+226,degree,diplôme,62
+227,delight,délice,83
+228,deliver,livrer,176
+229,demand,demande,151
+230,denied,refusé,52
+231,depart,partir,94
+232,desert,désert,65
+233,deserve,mériter,121
+234,desire,le désir,290
+235,despair,désespoir,52
+236,desperate,désespéré,54
+237,despite,malgré,49
+238,device,dispositif,49
+239,devil,diable,286
+240,devise,concevoir,53
+241,didst,didst,145
+242,dinner,dîner,95
+244,discover,découvrir,72
+245,disgrace,disgrâce,55
+246,dishonour,déshonorer,66
+247,dispatch,envoi,76
+248,displeasure,mécontentement,43
+249,disposition,disposition,51
+250,distributed,distribué,2
+251,divine,Divin,56
+252,doctor,docteur,40
+253,doing,Faire,78
+255,doors,des portes,61
+256,double,double,121
+257,doubt,doute,239
+260,drawn,tiré,86
+261,dread,crainte,117
+263,dream,rêver,201
+265,drink,boisson,201
+266,drops,gouttes,56
+267,drown,noyer,103
+268,drums,tambours,37
+269,drunk,ivre,111
+271,durst,durst,45
+272,dwell,habiter,71
+273,dying,en train de mourir,51
+274,early,de bonne heure,58
+275,earth,Terre,375
+277,effect,effet,112
+279,either,Soit,300
+280,elbow,coude,22
+281,elder,aîné,50
+282,embrace,embrasse,77
+283,emilia,Émilie,3
+284,emperor,empereur,17
+285,empty,vide,51
+287,endure,supporter,78
+288,enemies,ennemis,111
+289,enemy,ennemi,167
+290,enjoy,prendre plaisir,64
+292,enough,assez,291
+293,enter,entrer,586
+296,entreat,supplier,153
+297,equal,égal,66
+298,estate,biens,58
+299,eternal,éternel,38
+300,every,chaque,519
+302,excellent,excellent,104
+303,except,sauf,41
+304,excuse,excuse,79
+305,execution,exécution,62
+307,exeunt,sortir,7
+308,express,Express,65
+309,faces,visages,53
+310,faint,perdre connaissance,70
+311,fairy,Fée,41
+312,faith,Foi,373
+313,falls,des chutes,68
+314,false,faux,337
+315,familiar,familier,44
+316,fancy,fantaisie,67
+317,farewell,adieu,163
+318,farther,plus loin,42
+319,fashion,mode,123
+320,fatal,fatal,43
+321,father,père,1112
+322,fault,faute,279
+323,favour,favoriser,201
+324,fearful,craintif,99
+325,fears,peurs,74
+326,feast,le banquet,127
+327,feeble,faible,27
+328,fellow,compagnon,420
+331,fetch,chercher,107
+332,field,champ,235
+333,fiend,démon,78
+334,fierce,féroce,41
+335,fiery,ardent,47
+336,fight,bats toi,310
+337,figure,figure,65
+338,finds,trouve,38
+339,finger,doigt,112
+340,first,première,471
+341,flatter,flatter,131
+342,flesh,la chair,141
+343,flies,mouches,60
+344,flight,vol,55
+345,flood,inonder,59
+346,flourish,fleurir,51
+347,flower,fleur,100
+349,follow,suivre,491
+350,folly,folie,79
+351,foolish,insensé,101
+352,fools,imbéciles,100
+353,forbear,ancêtre,50
+354,forbid,interdire,79
+355,force,Obliger,270
+357,forest,forêt,78
+358,forget,oublier,106
+359,former,ancien,74
+360,forsooth,en vérité,42
+361,forth,en avant,431
+362,fortune,fortune,386
+363,forward,vers l'avant,100
+364,fought,combattu,67
+365,found,a trouvé,309
+366,fourth,Quatrième,11
+367,frame,Cadre,54
+369,freely,librement,52
+371,fresh,Frais,118
+372,friend,ami,991
+373,frown,froncer les sourcils,86
+374,fruit,fruit,70
+375,further,plus loin,187
+376,gallant,galant,70
+377,garden,jardin,53
+378,gates,portes,105
+379,gaunt,décharné,12
+380,general,général,205
+381,gentle,doux,898
+382,ghost,fantôme,49
+383,given,donné,197
+384,giving,donnant,39
+385,glass,verre,82
+386,glorious,glorieux,43
+387,glory,gloire,87
+388,going,Aller,104
+389,golden,d'or,87
+390,goodness,la bonté,55
+392,grace,la grâce,329
+393,grant,subvention,139
+394,grave,la tombe,234
+395,great,génial,1050
+396,green,vert,93
+397,greet,saluer,91
+398,grief,douleur,268
+399,grieve,pleurer,70
+400,gross,brut,94
+401,ground,sol,181
+402,grown,grandi,66
+403,guard,garde,165
+404,guess,devine,52
+405,guilty,coupable,69
+406,habit,habitude,157
+407,hands,mains,342
+408,hanging,pendaison,57
+409,hangs,bloque,34
+410,happiness,bonheur,57
+411,happy,heureux,225
+412,haste,hâte,209
+413,hateful,odieux,39
+414,having,ayant,124
+415,hazard,danger,45
+416,heads,têtes,130
+417,health,santé,107
+418,heard,entendu,354
+419,heart,cœur,1333
+420,heaven,paradis,759
+421,heavy,lourd,167
+423,heels,talons,83
+424,hence,Par conséquent,510
+427,herself,se,91
+428,highness,altesse,1
+429,holds,tient,83
+430,hollow,creux,53
+431,honest,honnête,391
+432,horse,cheval,331
+433,hostess,hôtesse,29
+434,hours,heures,139
+435,house,maison,640
+437,humble,humble,92
+438,humour,humour,124
+439,hundred,cent,116
+440,husband,mari,367
+441,ignorant,ignorant,48
+442,image,image,73
+443,includes,comprend,2
+444,indeed,En effet,358
+445,infinite,infini,43
+446,innocent,innocent,54
+447,instant,instant,84
+448,intend,avoir l'intention,87
+449,intent,intention,160
+450,issue,problème,128
+451,itself,lui-même,236
+452,jealous,jaloux,95
+453,jewel,bijou,87
+454,judge,juge,111
+455,judgment,jugement,115
+456,julia,Julia,1
+457,justice,Justice,164
+458,keeps,garde,69
+459,kindness,la gentillesse,78
+460,kingdom,Royaume,124
+461,kings,rois,137
+462,knave,fripon,237
+463,kneel,s'agenouiller,78
+464,knees,les genoux,51
+465,knife,couteau,56
+466,knight,Chevalier,170
+467,knock,frappe,99
+468,knowing,connaissance,38
+469,knowledge,connaissance,97
+470,known,connu,230
+471,knows,sait,205
+472,labour,la main d'oeuvre,123
+473,ladies,Dames,107
+474,ladyship,Madame,44
+475,lands,terres,67
+476,large,grand,101
+477,laugh,rire,239
+479,lawful,légitime,76
+480,learn,apprendre,212
+482,least,moins,101
+483,leave,laisser,700
+484,leisure,loisir,68
+486,letter,lettre,377
+487,liberty,liberté,71
+488,library,bibliothèque,3
+489,liege,Liege,144
+490,lieutenant,lieutenant,35
+491,light,lumière,455
+492,limbs,membres,49
+493,little,peu,477
+494,lives,vies,196
+495,living,vivant,122
+496,longer,plus long,106
+497,looks,regards,204
+498,loose,ample,60
+499,lords,seigneurs,457
+502,lovely,charmant,53
+503,lovers,les amoureux,55
+504,loves,aime,221
+505,loving,aimant,121
+507,machine,machine,3
+508,madness,la démence,67
+509,maiden,jeune fille,76
+510,maids,servantes,46
+511,maintain,maintenir,52
+512,majesty,majesté,69
+513,makes,fait du,315
+514,making,fabrication,57
+515,malice,malice,70
+516,manner,manière,175
+517,march,Mars,113
+523,marriage,mariage,120
+524,marry,marier,192
+525,master,Maître,628
+526,match,rencontre,116
+527,matter,matière,381
+528,meaning,sens,59
+529,means,veux dire,261
+530,meant,signifiait,65
+531,measure,mesure,99
+532,meeting,réunion,53
+534,memory,Mémoire,58
+535,merchant,marchande,41
+536,mercy,pitié,176
+537,merit,mérite,79
+538,merry,joyeux,165
+539,messenger,Messager,76
+540,midnight,minuit,41
+541,might,pourrait,628
+544,minds,esprits,55
+545,minister,ministre,62
+547,mirth,gaieté,52
+549,misery,misère,37
+550,mistake,erreur,47
+551,mistress,maîtresse,270
+552,modest,modeste,97
+553,money,argent,186
+554,monster,monstre,89
+555,month,mois,97
+556,morning,Matin,132
+557,morrow,demain,353
+558,mortal,mortel,144
+559,mother,mère,441
+560,motion,mouvement,112
+561,mouth,bouche,200
+563,murder,meurtre,117
+564,murther,aller plus loin,67
+565,music,la musique,197
+566,myself,moi même,512
+567,naked,nu,54
+568,names,des noms,50
+569,native,originaire de,45
+570,natural,Naturel,104
+571,nature,la nature,358
+572,needs,Besoins,142
+573,neighbour,voisine,83
+575,never,jamais,910
+576,niece,nièce,62
+577,night,nuit,992
+578,noble,noble,693
+579,noise,bruit,114
+580,nothing,rien,545
+581,nought,néant,54
+582,number,nombre,100
+583,nurse,infirmière,82
+584,oaths,serments,86
+585,obedience,obéissance,56
+587,object,objet,54
+588,occasion,occasion,89
+589,offence,infraction,119
+590,offend,offenser,144
+591,offer,offre,166
+592,office,Bureau,244
+593,often,souvent,136
+595,opinion,opinion,94
+596,order,ordre,141
+598,other,autre,1073
+600,ourselves,nous-mêmes,181
+601,outward,vers l'extérieur,57
+604,pains,des douleurs,92
+605,painted,peint,52
+606,painter,peintre,10
+607,palace,palais,158
+609,paper,papier,121
+610,pardon,pardon,259
+611,paris,Paris,32
+613,parted,séparé,46
+614,particular,particulier,69
+615,partly,partiellement,33
+616,parts,les pièces,108
+617,party,fête,51
+618,passage,passage,44
+619,passion,la passion,145
+620,patience,la patience,178
+621,patient,patient,127
+623,peace,paix,412
+625,people,gens,224
+626,perceive,apercevoir,102
+628,perfect,parfait,114
+629,perhaps,peut-être,32
+630,peril,péril,65
+631,permission,autorisation,4
+632,person,la personne,191
+636,picture,image,51
+637,piece,pièce,141
+638,pistol,pistolet,5
+639,place,endroit,516
+640,plague,peste,103
+641,plain,plaine,228
+642,plead,plaider,52
+643,please,S'il vous plaît,381
+644,pleasure,plaisir,214
+645,pluck,cueillir,136
+647,point,point,244
+648,poison,poison,119
+649,policy,politique,45
+652,porter,porter,653
+653,possible,possible,97
+655,pound,livre,112
+656,power,Puissance,375
+657,practice,entraine toi,56
+658,praise,louange,232
+659,prayers,prières,85
+660,precious,précieux,77
+661,prepare,préparer,63
+662,presence,présence,104
+663,present,présent,410
+664,pretty,jolie,109
+665,pride,fierté,107
+666,priest,prêtre,78
+667,prince,prince,285
+668,prison,prison,256
+669,private,privé,74
+670,prize,prix,53
+671,proceed,procéder,105
+673,profit,profit,63
+675,project,projet,15
+676,prologue,prologue,22
+677,promise,promettre,154
+678,proof,preuve,116
+679,proper,correct,95
+680,protector,protecteur,5
+681,protest,manifestation,66
+682,proud,fier,229
+683,prove,prouver,351
+684,provided,à condition de,33
+685,public,Publique,67
+686,purpose,objectif,256
+687,purse,bourse,106
+688,quality,qualité,56
+689,quarrel,querelle,122
+690,queen,reine,199
+691,question,question,169
+692,quick,rapide,210
+693,quiet,silencieux,106
+694,quite,assez,103
+695,quoth,quoth,62
+696,raise,élever,73
+697,ransom,une rançon,64
+698,rascal,coquin,88
+699,rather,plutôt,291
+700,readable,lisible,2
+701,ready,prêt,137
+702,realm,domaine,60
+703,reason,raison,489
+704,receive,recevoir,124
+705,regard,qui concerne,263
+706,reign,règne,273
+708,remain,rester,112
+709,remedy,remède,59
+710,remember,rappelles toi,159
+711,render,rendre,55
+712,repair,réparation,42
+713,repent,se repentir,68
+714,report,rapport,179
+715,reputation,réputation,45
+716,request,demande,85
+717,respect,le respect,182
+718,return,revenir,252
+719,revenge,vengeance,163
+720,reverence,révérence,44
+721,revolt,révolte,61
+722,right,droite,540
+723,rivers,rivières,12
+724,rogue,coquin,104
+725,rotten,pourri,38
+726,rough,rugueux,441
+727,round,rond,97
+728,royal,Royal,246
+729,sacred,sacré,46
+730,safety,sécurité,74
+731,saint,Saint,43
+733,satisfied,satisfait,54
+734,saying,en disant,57
+735,scarce,rare,83
+736,scene,scène,42
+737,scorn,mépris,139
+738,search,chercher,53
+739,season,saison,67
+740,second,seconde,113
+741,secret,secret,107
+742,seeing,voyant,45
+744,senator,sénateur,34
+745,sense,sens,182
+746,sentence,phrase,45
+747,servant,serviteur,253
+748,serve,servir,336
+749,service,un service,262
+750,seven,Sept,82
+751,several,nombreuses,105
+752,shadow,ombre,104
+753,shake,secouer,111
+754,shall,doit,3179
+755,shame,la honte,352
+756,shape,forme,129
+757,sharp,tranchant,85
+758,shepherd,berger,81
+759,shine,éclat,99
+760,shore,rive,77
+761,short,court,164
+763,should,devrait,1563
+764,shows,montre,95
+765,sickness,maladie,53
+766,sight,vue,238
+767,silence,silence,63
+768,silver,argent,68
+769,simple,Facile,84
+770,since,depuis,299
+771,single,Célibataire,63
+772,sirrah,sirrah,77
+773,sister,sœur,502
+774,skill,compétence,61
+775,slain,tué,125
+776,slander,calomnie,86
+777,slave,esclave,170
+778,sleep,sommeil,342
+779,slender,mince,12
+780,small,petit,107
+781,smell,odeur,66
+782,smile,sourire,116
+783,soldier,soldat,317
+784,solemn,solennel,66
+786,something,quelque chose,152
+787,sometime,parfois,107
+788,sooner,plus tôt,60
+789,soothsayer,devin,3
+790,sorrow,chagrin,236
+791,sorry,Pardon,88
+792,sought,recherché,38
+793,souls,âmes,110
+794,sound,du son,282
+796,spare,de rechange,55
+797,speak,parler,1201
+799,special,spécial,64
+800,speech,discours,162
+801,speed,la vitesse,158
+802,spend,dépenser,77
+803,spirit,esprit,387
+804,spite,dépit,82
+805,spoke,parlait,207
+806,sport,sport,178
+807,spring,printemps,84
+808,staff,Personnel,143
+809,stain,tache,110
+810,stand,supporter,798
+811,stars,étoiles,68
+812,state,Etat,342
+813,steal,voler,118
+814,steel,acier,77
+815,steward,intendant,25
+816,still,encore,523
+817,stomach,estomac,61
+818,stone,calcul,145
+819,stood,se tenait,96
+820,store,boutique,72
+821,storm,orage,73
+822,story,récit,92
+823,straight,tout droit,153
+824,strange,étrange,283
+825,street,rue,129
+826,strength,force,138
+827,strike,la grève,147
+828,stroke,accident vasculaire cérébral,64
+829,strong,fort,272
+830,struck,frappé,81
+831,study,étude,60
+832,stuff,des trucs,67
+833,subject,matière,169
+834,substance,substance,43
+835,success,Succès,81
+836,sudden,soudain,126
+838,suffer,souffrir,157
+840,summer,été,99
+841,supper,souper,63
+842,surely,sûrement,35
+844,suspect,suspect,49
+845,swear,jurer,328
+846,sweat,transpiration,50
+847,sweet,sucré,775
+848,swift,rapide,94
+849,sword,épée,421
+850,swore,juré,59
+851,sworn,juré,196
+853,table,table,226
+854,tailor,tailleur,42
+855,taken,pris,91
+857,tarry,goudronneux,40
+858,taste,goût,93
+859,taught,enseigné,53
+860,teach,enseigner,120
+861,tears,larmes,274
+862,tedious,fastidieux,50
+863,teeth,les dents,56
+864,tells,raconte,43
+865,tempest,tempête,48
+866,tender,soumissionner,174
+867,terms,termes,74
+868,thank,remercier,451
+869,their,leur,1964
+870,themselves,se,158
+871,there,Là,2053
+874,these,celles-ci,1101
+875,thief,voleur,68
+876,thing,chose,866
+877,think,pense,1270
+878,third,troisième,76
+880,those,ceux,467
+881,though,bien que,1111
+883,thrive,prospérer,60
+884,throat,gorge,78
+885,throne,trône,75
+887,throw,jeter,183
+888,thrust,poussée,58
+889,thunder,tonnerre,74
+890,times,fois,254
+891,title,Titre,120
+892,together,ensemble,265
+893,tongue,langue,492
+895,touch,toucher,204
+896,toward,vers,156
+897,tower,la tour,18
+898,train,train,304
+899,traitor,traitre,197
+900,tread,bande de roulement,55
+902,treasure,Trésor,58
+903,trial,procès,65
+904,tribunes,tribunes,27
+905,trick,tour,94
+906,triumph,triomphe,75
+907,trouble,difficulté,125
+908,truly,vraiment,124
+909,trumpet,trompette,178
+910,trust,confiance,224
+911,truth,vérité,344
+912,turns,se tourne,51
+913,twice,deux fois,62
+914,tyrant,tyran,67
+916,uncle,oncle,234
+917,under,sous,504
+920,undone,défait,52
+923,unless,sauf si,66
+924,until,jusqu'à,43
+925,unworthy,indigne,31
+926,utter,prononcer,117
+928,valiant,vaillant,154
+929,valour,valeur,99
+930,vantage,avantage,180
+931,vengeance,vengeance,212
+933,version,version,8
+934,victory,la victoire,46
+935,villain,scélérat,327
+936,viola,alto,16
+937,violent,violent,47
+938,virtue,vertu,228
+939,visit,visite,92
+940,voice,voix,212
+941,walls,des murs,84
+942,warlike,guerrier,57
+943,warrant,mandat,189
+944,waste,déchets,73
+945,watch,regarder,175
+946,water,eau,195
+947,wealth,richesse,113
+948,weapons,armes,40
+949,weary,se lasser,82
+950,weeds,mauvaises herbes,42
+951,weeping,larmes,58
+952,weight,poids,63
+953,welcome,Bienvenue,279
+954,wench,jeune fille,84
+956,where,où,1005
+958,whether,qu'il s'agisse,56
+959,which,lequel,1418
+960,while,tandis que,215
+961,whither,où,39
+962,whole,entier,160
+963,whore,putain,101
+964,whose,dont,383
+965,widow,veuve,89
+966,willing,prêt,89
+967,window,la fenêtre,67
+968,wings,ailes,55
+969,winter,hiver,78
+970,wisdom,sagesse,100
+971,witch,sorcière,79
+972,withal,avec,147
+973,within,dans,340
+974,without,sans pour autant,287
+975,witness,témoin,121
+976,wives,épouses,61
+978,woman,femme,493
+979,wonder,merveille,160
+980,works,travaux,24
+981,world,monde,698
+982,worse,pire,168
+983,worship,culte,132
+984,worth,vaut,510
+985,would,aurait,2163
+986,wound,blessure,201
+988,wrath,colère,71
+989,wretch,misérable,147
+990,write,écrire,138
+991,written,écrit,34
+992,wrong,faux,375
+994,yield,rendement,180
+995,yonder,là-bas,59
+996,young,Jeune,462
+997,yours,le tiens,516
+999,youth,jeunesse,310
